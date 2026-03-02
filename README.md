@@ -63,7 +63,3 @@ A C++14 console application for creating and managing Dungeons & Dragons (D&D) c
 - Expand menu options in `main_menu.h/cpp` and related helpers.
 
 
-## Authors
-
-- Main contributors: R0scat
-
